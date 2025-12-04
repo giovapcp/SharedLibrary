@@ -3,7 +3,7 @@ namespace Shared.Http;
 using System.Collections;
 using System.Net;
 using System.Text.Json;
-using static Shared.Http.HttpUtils;
+
 
 public static class JsonUtils
 {
